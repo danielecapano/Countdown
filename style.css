@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@400;700&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap");
 
 * {
   margin: 0;
@@ -10,7 +10,7 @@
 }
 
 body {
-  background: url(./immagini/noi-due-bg.jpg) center center no-repeat;
+  background: url(./immagini/autunno.jpg) center center no-repeat;
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -33,11 +33,11 @@ body {
 }
 
 .container {
-  font-family: 'Alex Brush', cursive;
+  font-family: "Alex Brush", cursive;
 }
 
 .container h3 {
-  font-family: 'Alex Brush', cursive;
+  font-family: "Alex Brush", cursive;
   /* text-transform: uppercase; */
   font-size: 3rem;
   font-weight: 300;
@@ -45,7 +45,7 @@ body {
 
 .container h1 {
   font-size: 6rem;
-  font-family: 'Alex Brush', cursive;
+  font-family: "Alex Brush", cursive;
 }
 
 .countdown {
